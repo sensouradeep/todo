@@ -1,2 +1,2 @@
 # todo
-A react complete package for implementing to-do web application
+A React complete package for implementing to-do web application
